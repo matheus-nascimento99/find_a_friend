@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "orgs" ALTER COLUMN "cellphone" SET DATA TYPE TEXT,
+ALTER COLUMN "postal_code" SET DATA TYPE TEXT;
